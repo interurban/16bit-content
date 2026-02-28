@@ -1,0 +1,7 @@
+[
+  { "id": "acid", "name": "ACiD Productions", "yearsActive": [1990, 1999], "description": "One of the most prolific and influential ANSI art groups of the early 90s BBS era, known for their high-quality ANS files and iCE color work." },
+  { "id": "ice", "name": "iCE Advertisements", "yearsActive": [1991, 1997], "description": "Rival to ACiD and pioneer of the iCE color extension that allowed 16 background colors in ANSI art." },
+  { "id": "fire", "name": "Fire Art", "yearsActive": [1993, 1998], "description": "Mid-90s group known for dramatic fantasy themes and large-scale ANS compositions." },
+  { "id": "mistigris", "name": "Mistigris", "yearsActive": [1994, 2024], "description": "Long-running textmode art group bridging the classic BBS era and modern textmode revival." },
+  { "id": "blocktronics", "name": "Blocktronics", "yearsActive": [2008, 2024], "description": "Modern ANSI art collective producing artpacks that honor and extend the classic textmode tradition." }
+]
