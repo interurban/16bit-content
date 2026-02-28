@@ -1,0 +1,366 @@
+# ACiD April 1994 Acquisition — bundle metadata
+# Generated from acdu0494.zip SAUCE parsing
+
+id: acdu0494
+bundle_type: acquisition_update
+title: "ACiD Acquisition — April 1994"
+group: acid
+release_date: "1994-04-01"
+license_status: unknown
+
+artists:
+  - id: unknown
+    handle: "Unknown"
+  - id: alter_ego
+    handle: "Alter Ego"
+  - id: andrew_nice
+    handle: "Andrew Nice"
+  - id: beastie
+    handle: "Beastie"
+  - id: duster
+    handle: "Duster"
+  - id: iron_man
+    handle: "Iron Man"
+  - id: kingpin
+    handle: "Kingpin"
+  - id: lord_jazz
+    handle: "Lord Jazz"
+  - id: multiple_artists
+    handle: "Multiple Artists"
+  - id: redman
+    handle: "ReDMaN"
+  - id: smooth
+    handle: "Smooth"
+  - id: somms
+    handle: "Somms"
+  - id: spawn
+    handle: "Spawn"
+  - id: splitmetal
+    handle: "SplitMetal"
+  - id: terminator2
+    handle: "Terminator2"
+  - id: the_clone
+    handle: "The Clone"
+  - id: vision
+    handle: "Vision"
+
+artworks:
+  - filename: ACID0394.ANS
+    title: "March 1994 Member/Board Listing"
+    artist_id: unknown
+    filetype: ANS
+    year: 1994
+    lines: 103
+    columns: 80
+    file_size_bytes: 9410
+  - filename: AE-APRLF.ANS
+    title: "The Humdinger"
+    artist_id: alter_ego
+    filetype: ANS
+    year: 1994
+    lines: 24
+    columns: 80
+    file_size_bytes: 3386
+  - filename: AE-CH02.ANS
+    title: "Channel Zer0"
+    artist_id: alter_ego
+    filetype: ANS
+    year: 1994
+    lines: 92
+    columns: 80
+    file_size_bytes: 11091
+  - filename: AN-WHAM1.ANS
+    title: "Whammy Bar"
+    artist_id: andrew_nice
+    filetype: ANS
+    year: 1994
+    lines: 186
+    columns: 80
+    file_size_bytes: 35074
+  - filename: BE-PI1.ANS
+    title: "Programmed Illusion"
+    artist_id: beastie
+    filetype: ANS
+    year: 1994
+    lines: 167
+    columns: 80
+    file_size_bytes: 18480
+  - filename: DR-EOT1.ANS
+    title: "End of Time"
+    artist_id: duster
+    filetype: ANS
+    year: 1994
+    lines: 153
+    columns: 80
+    file_size_bytes: 21900
+  - filename: DR-TIC2.ANS
+    title: "The Icy Connection"
+    artist_id: duster
+    filetype: ANS
+    year: 1994
+    lines: 122
+    columns: 80
+    file_size_bytes: 19985
+  - filename: IM-PG1.ANS
+    title: "Power Grid"
+    artist_id: iron_man
+    filetype: ANS
+    year: 1994
+    lines: 269
+    columns: 80
+    file_size_bytes: 44773
+  - filename: KP-CH01.ANS
+    title: "Channel Zer0"
+    artist_id: kingpin
+    filetype: ANS
+    year: 1994
+    lines: 100
+    columns: 80
+    file_size_bytes: 17986
+  - filename: KP-EA.ANS
+    title: "Electric Acid"
+    artist_id: kingpin
+    filetype: ANS
+    year: 1994
+    lines: 162
+    columns: 80
+    file_size_bytes: 23649
+  - filename: LD-CH01.ANS
+    title: "Channel Zer0"
+    artist_id: lord_jazz
+    filetype: ANS
+    year: 1994
+    lines: 193
+    columns: 80
+    file_size_bytes: 28012
+  - filename: LD-COD.ANS
+    title: "Castle of Darkness"
+    artist_id: lord_jazz
+    filetype: ANS
+    year: 1994
+    lines: 796
+    columns: 80
+    file_size_bytes: 154742
+  - filename: LD-FR2.ANS
+    title: "Future Realm II"
+    artist_id: lord_jazz
+    filetype: ANS
+    year: 1994
+    lines: 166
+    columns: 80
+    file_size_bytes: 24294
+  - filename: NEWZ0494.ANS
+    title: "ACiD Newsletter Issue #3 (04/94)"
+    artist_id: unknown
+    filetype: ANS
+    year: 1994
+    lines: 72
+    columns: 80
+    file_size_bytes: 8052
+  - filename: RN-AE1.RIP
+    title: "Awakened Earth"
+    artist_id: redman
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 10780
+  - filename: RN-DSUN1.RIP
+    title: "Dark Sun World"
+    artist_id: redman
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 21563
+  - filename: RN-DU1.RIP
+    title: "Danger Unlimited"
+    artist_id: redman
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 14410
+  - filename: RN-EPIC1.RIP
+    title: "Epic"
+    artist_id: redman
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 11164
+  - filename: RN-IRID1.RIP
+    title: "Iridium Magazine"
+    artist_id: redman
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 9960
+  - filename: RN-SKY2.RIP
+    title: "SkyNet"
+    artist_id: redman
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 15912
+  - filename: RN-TTG1.ANS
+    title: "The Thieves' Guild"
+    artist_id: redman
+    filetype: ANS
+    year: 1994
+    lines: 206
+    columns: 80
+    file_size_bytes: 29746
+  - filename: RN-WEB1.RIP
+    title: "The Web"
+    artist_id: redman
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 18695
+  - filename: SM-EOT1.RIP
+    title: "End of Time"
+    artist_id: smooth
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 49183
+  - filename: SM-GODHD.RIP
+    title: "Godhead Silo"
+    artist_id: smooth
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 20130
+  - filename: SN-CH01.ANS
+    title: "Channel Zer0"
+    artist_id: spawn
+    filetype: ANS
+    year: 1994
+    lines: 320
+    columns: 80
+    file_size_bytes: 46132
+  - filename: SO-SA1.ANS
+    title: "Soul Asylum"
+    artist_id: somms
+    filetype: ANS
+    year: 1994
+    lines: 166
+    columns: 80
+    file_size_bytes: 19166
+  - filename: SP-TEH1.RIP
+    title: "The Eleventh Hour"
+    artist_id: splitmetal
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 51425
+  - filename: T2-DI1.ANS
+    title: "Digital Illusions"
+    artist_id: terminator2
+    filetype: ANS
+    year: 1994
+    lines: 23
+    columns: 80
+    file_size_bytes: 4971
+  - filename: T2-DR1.ANS
+    title: "Death Row"
+    artist_id: terminator2
+    filetype: ANS
+    year: 1994
+    lines: 135
+    columns: 80
+    file_size_bytes: 30752
+  - filename: T2-EI1.ANS
+    title: "Evil Intention"
+    artist_id: terminator2
+    filetype: ANS
+    year: 1994
+    lines: 127
+    columns: 80
+    file_size_bytes: 24974
+  - filename: T2-TEH2.ANS
+    title: "The Eleventh Hour"
+    artist_id: terminator2
+    filetype: ANS
+    year: 1994
+    lines: 98
+    columns: 80
+    file_size_bytes: 26287
+  - filename: TC-TEH1.ANS
+    title: "The Eleventh Hour"
+    artist_id: the_clone
+    filetype: ANS
+    year: 1994
+    lines: 149
+    columns: 80
+    file_size_bytes: 32464
+  - filename: US-BV1.RIP
+    title: "Beyond Vision"
+    artist_id: multiple_artists
+    filetype: RIP
+    year: 1994
+    lines: 350
+    columns: 640
+    file_size_bytes: 15081
+  - filename: US-DSUN1.ANS
+    title: "Dark Sun World"
+    artist_id: multiple_artists
+    filetype: ANS
+    year: 1994
+    lines: 172
+    columns: 80
+    file_size_bytes: 24209
+  - filename: VS-FED1.ANS
+    title: "Federation Network"
+    artist_id: vision
+    filetype: ANS
+    year: 1994
+    lines: 186
+    columns: 80
+    file_size_bytes: 13066
+
+stats:
+  total_files: 50
+  numbered_artworks: 35
+  total_bytes_uncompressed: 910904
+
+cover_artwork: ACID0394.ANS
+
+non_artwork_files:
+  - filename: ACDU0494.NFO
+    file_size_bytes: 7301
+  - filename: ACIDAPP.EXE
+    file_size_bytes: 98112
+  - filename: ACIDVIEW.EXE
+    file_size_bytes: 129536
+  - filename: ACIDVIEW.NFO
+    file_size_bytes: 32672
+  - filename: AK-ABSAR.EXE
+    file_size_bytes: 15083
+  - filename: AK-SKY1.EXE
+    file_size_bytes: 65160
+  - filename: DV-DREAM.EXE
+    file_size_bytes: 36839
+  - filename: FILE_ID.DIZ
+    file_size_bytes: 496
+  - filename: KP-ROC1.EXE
+    file_size_bytes: 272301
+  - filename: LOGO0494.ZIP
+    file_size_bytes: 11796
+  - filename: MX-DSD.EXE
+    file_size_bytes: 79008
+  - filename: SPOON.EXE
+    file_size_bytes: 32384
+  - filename: SPOON.INI
+    file_size_bytes: 82
+  - filename: SW-INSOM.EXE
+    file_size_bytes: 73272
+  - filename: SW-PSY.EXE
+    file_size_bytes: 123126
